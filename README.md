@@ -1,4 +1,4 @@
-### Hi, I'm Mohammad 👋
+### Hi, I'm Mohammad  
 
 
 - 🔭 I’m currently working on Java, JavaScript, CSS, and PHP.
