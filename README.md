@@ -6,15 +6,14 @@
 - 🎓 I'm an Automation Engineering student with a minor in management & chemical engineering.
 - 😄 Pronouns: he/him
 
-## 🔥 My contribution streak
+## 📈 Github Stats
 
-<p align="center">
-  <a href="https://github.com/corpsema/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=corpsema#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/corpsema?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=corpsema&show_icons=true&count_private=true&hide=" /></a>
+</details>
 
 As Kanye West said:
 
