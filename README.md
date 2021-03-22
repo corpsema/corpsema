@@ -18,10 +18,9 @@
 
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> We're living the future so the present is our past.
 
-### ☕ Wanna chat? 
+## ☕ Wanna chat? 
 - @ me at <a href="https://www.linkedin.com/in/mohammad-abdulhussain/">LinkedIn</a> about anything!
 - **Other stuff**: Talk to me about your favoute video games, AI, machine learning, or your favorite youtubers!
 
